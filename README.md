@@ -8,10 +8,10 @@ Here is the step by step process on how to setup api in your local machine
 3. Clone the repo and go to the root(starting or parent) folder.
 
 4. Open terminal window at the same folder which is the project folder and give following commands.
-   * npm install express
-   * npm install cors
-   * npm install mongoose
+   * **npm install express** press enter
+   * **npm install cors** press enter
+   * **npm install mongoose** press enter
 
    Execute these commands one after another so that each package is installed.
 
-5. Give command **node index.js**. This will start your server. You server is up and running at **http://localhost:8900/** and you can connect with any client to send HTTP Requests.
+5. Give command **node index.js** and press enter. This will start your server. You server is up and running at **http://localhost:8900/** and you can connect with any client to send HTTP Requests.
