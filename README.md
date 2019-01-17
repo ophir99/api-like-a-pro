@@ -8,9 +8,9 @@ Here is the step by step process on how to set up api in your local machine
 3. Clone the repo and go to the root(starting or parent) folder.
 
 4. Open termial window at the same folder which is the project folder and give following commands.
-   a. npm install express
-   b. npm install cors
-   c. npm install mongoose
+   * npm install express
+   * npm install cors
+   * npm install mongoose
 
    Execute these commands one after another so that each package is installed.
 
