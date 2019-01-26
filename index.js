@@ -15,6 +15,7 @@ app.use(cors());
 app.use(express.json());
 // http://localhost:8900/posts/all
 app.use("/posts", posts);
+app.use("/tweets", posts);
 app.use("/user", userRoutes);
 app.listen(8900, () => {
   console.log("API started...");
